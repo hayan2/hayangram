@@ -1,1 +1,3 @@
 # hayangram
+
+edit profile, follower
